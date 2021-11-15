@@ -4,6 +4,10 @@ This is an api, to add bike reservations and check the bike wagons in a train.
 
 Made for the BERT competition 2021
 
+### 
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -22,6 +26,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+
+PUT
 
 [Link](url) and ![Image](src)
 ```
